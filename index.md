@@ -30,6 +30,8 @@ I am a Junior at University of Maryland, College Park, double majoring in Comput
 
 ## Experiences 
 
+** Teaching Assistant **
+
 **Kumon Math and Reading Center of Clarksville**
 
 At this job, I taught a lot of students of differing ages, from toddlers to students in high school. Predominantly, I taught high-level math, which included topics from Algebra II, Precalculus, Calculus I and Calculus II. I really enjoyed this job because it allowed me to interact with the same students and watch each student grow. 
