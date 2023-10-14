@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Junior at University of Maryland, College Park, double majoring in Computer Science and Mathematics. I am interested in learning more about Computer Vision and Quantum Computing. Although I have minimal in-depth research experience, I would enjoy doing a research project in a large amount of topics to see what interests me. Aside from school, I really enjoying teaching and playing chess, basketball and ice hockey.
+I am a Senior at University of Maryland, College Park, double majoring in Computer Science and Mathematics. I am interested in learning more about Computer Vision, Natural Language Process, Diffusion Models, and Quantum Computing. Although I have minimal in-depth research experience, I would enjoy doing a research project in a large amount of topics to see what interests me. Aside from school, I really enjoying teaching and playing chess, basketball and ice hockey.
 
 ## Research Interests
 
-- **Quantum Computing:** Cryptography
+- **Quantum Computing:** Cryptography, Quantum Algorithm speedups
 - **Computer Vision:** 3-D Imaging, Neural Networks, Modeling
+- **Natural Language Processing:** Database Embeddings, Diffusion Models, Adversarial Attacks, Model Memorization
 
 ## Projects 
 
@@ -30,7 +31,10 @@ I am a Junior at University of Maryland, College Park, double majoring in Comput
 
 ## Experiences 
 
-** Teaching Assistant **
+**Teaching Assistant (CMSC250)**
+
+<ul>
+Expanding on my past teaching experience, being a TA for an actual university class taught me how to teach class in a fast but understandable manner to students. In addition, I also had the opportunity to grade work that reflected the things that I taught in a setting where my teaching mattered more. 
 
 **Kumon Math and Reading Center of Clarksville**
 
