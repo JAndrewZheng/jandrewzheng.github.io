@@ -14,6 +14,11 @@ I am a Senior at University of Maryland, College Park, double majoring in Comput
 
 ## Projects 
 
+**NLP Information Storage and Retrieval**
+
+In a research class I am currently taking at the University of Maryland, I got to work on a research project that focused on building a cost-effective database that is able to hold many documents and rank the most relevant documents to a query very quickly. In addition to providing an accurate ranking scheme, we are interested in seeing how much we can improve the speed of the database as well as the storage needed for the database without too much tradeoff in the accuracy of the ranking system the database is supposed to provide. In order to decide how the algorithm embeds the documents that come through, we will provide some mathematical analysis as to why this is the best and why our method is generalizable over many different large document collections.
+
+Once I have decided on the way the database embeds the documents and encodes the ranking method, then, I will compare my method with state-of-the-art methods and decide which methods are the best. I will mostly be comparing the accuracy of my method and seeing how much it drops compared to state-of-the-art methods. Then, I will focus on what our method brings to the table in terms of speed and memory usage. 
 
 **Fantasy Basketball Project**
 
