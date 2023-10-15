@@ -14,6 +14,7 @@ I am a Senior at University of Maryland, College Park, double majoring in Comput
 
 ## Projects 
 
+
 **Fantasy Basketball Project**
 
 <ul>
@@ -33,8 +34,9 @@ I am a Senior at University of Maryland, College Park, double majoring in Comput
 
 **Teaching Assistant (CMSC250)**
 
-<ul>
-Expanding on my past teaching experience, being a TA for an actual university class taught me how to teach class in a fast but understandable manner to students. In addition, I also had the opportunity to grade work that reflected the things that I taught in a setting where my teaching mattered more. 
+Expanding on my past teaching experience, being a TA for an actual university class taught me how to teach class in a fast but understandable manner to students. As a TA, I led a discussion section, graded student work, and held office hours. Not only did I give personalized help in a 1-1 manner to students in office hours, but I also had the chance to lead my own discussion section. I was grateful that I was able to lead my own discussion section because it gave me more freedom to teach in a matter that would help the students understand the material in a conceptual manner and help answer the question "Why?" to course material instead of just looking at the "How?". In addition, I also had the opportunity to grade work that reflected the things that I taught in a setting where my teaching mattered more. This grading gave me feedback to areas in the coursework where students had more confusion in. These areas of confusion allowed me to figure out what to emphasize during my discussion sections and office hours.
+
+I really enjoyed my TA experience and I wish to do more in the form to teaching later on. Teaching college courses suits me as well since in college, courses get to a point where they are actually interesting and the importance of actually understanding the "Why?" becomes more important instead of just learning the "How?". I would definitely be interested in teaching more college-level courses in the area of computer science or mathematics. 
 
 **Kumon Math and Reading Center of Clarksville**
 
