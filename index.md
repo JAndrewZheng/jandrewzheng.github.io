@@ -65,7 +65,7 @@ At this internship, I worked with a large dataset containing solar wind and magn
 - **Completed:** Complex Analysis (MATH463), Advanced Linear Algebra (MATH405), Abstract Algebra (MATH403), Number Theory (MATH406), Differential Equations (MATH246), Calculus III (MATH241), Introduction to Linear Algebra (MATH240), Special Topics in Computer Science; Quantum Boot Camp (CMSC488A),  Advanced Data Structures (CMSC420), Introduction to Quantum Computing (CMSC457), Algorithms (CMSC351), Programming Languages (CMSC330), Introduction to Data Science (CMSC320), Introduction to Computer Systems (CMSC216), Object-Oriented Programming II (CMSC132), Applied Probability and Statistics I (STAT400)
 - **In Progress:** Advanced Calculus (MATH410), Partial Differential Equations (MATH462), Introduction to Machine Learning (CMSC422), Computer Vision (CMSC426), Capstone in Machine Learning (CMSC673)
 
-## Hobbies
+## Other Experiences
 
 **Chess:** Ever since I was around 5.5 years old, I've been playing chess competitively. Over time, I became really good at board game, winning state championships and playing at invitational events. Here are some of my achievements: 
 
