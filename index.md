@@ -4,40 +4,37 @@ layout: homepage
 
 ## About Me
 
-I am a Senior at University of Maryland, College Park, double majoring in Computer Science and Mathematics. I am interested in learning more about Computer Vision, Natural Language Process, Diffusion Models, and Quantum Computing. Although I have minimal in-depth research experience, I would enjoy doing a research project in a large amount of topics to see what interests me. Aside from school, I really enjoying teaching and playing chess, basketball and ice hockey.
+I am a Masters at University of Maryland, College Park, majoring in Computer Science. I am interested in the intersection of quantum computing and machine learning, hoping to develop quantum algorithms to make current algorithms in machine learning faster through quantum. Aside from school, I really enjoying teaching and playing chess, basketball and ice hockey.
 
 ## Research Interests
 
-- **Quantum Computing:** Cryptography, Quantum Algorithm speedups
-- **Computer Vision:** 3-D Imaging, Neural Networks, Modeling
-- **Natural Language Processing:** Database Embeddings, Diffusion Models, Adversarial Attacks, Model Memorization
+- **Quantum Computing:** Simulation, Algorithms
+- **LLMs:** Theory, Database vectorization, Signal Denoising, Computer Vision
 
 ## Projects 
 
+**Quantum Simulation Project (Ongoing)**
+
+Previously, quantum algorithms 
+
+**ClearCOMM**
+
 **NLP Information Storage and Retrieval**
 
-In a research class I am currently taking at the University of Maryland, I got to work on a research project that focused on building a cost-effective database that is able to hold many documents and rank the most relevant documents to a query very quickly. In addition to providing an accurate ranking scheme, we are interested in seeing how much we can improve the speed of the database as well as the storage needed for the database without too much tradeoff in the accuracy of the ranking system the database is supposed to provide. In order to decide how the algorithm embeds the documents that come through, we will provide some mathematical analysis as to why this is the best and why our method is generalizable over many different large document collections.
-
-Once I have decided on the way the database embeds the documents and encodes the ranking method, then, I will compare my method with state-of-the-art methods and decide which methods are the best. I will mostly be comparing the accuracy of my method and seeing how much it drops compared to state-of-the-art methods. Then, I will focus on what our method brings to the table in terms of speed and memory usage. 
+Information retrieval from a database is being used daily by search engines made by Google and Bing. The most obvious way to find the most relevant document in a database is to turn all documents into a vector, turn the query into a vector, and find which document would have the largest dot product with query. How do we do this vectorization? This <a href="https://github.com/rifaaQ/cmsc674">project</a> seeks to compare differen benchmarks of methods that use different methods to perform this query-document vectorization. 
 
 **Fantasy Basketball Project**
 
-<ul>
-<li> Created a <a href="https://andrewzayn.github.io/">tutorial</a> which teaches how to calculate Fantasy Points from NBA player stats from the 2021-2022 season and conduct data analysis on those calculated fantasy point values </li>
-</ul>
+Data science techniques are always useful for analyzing any type of data, including NBA data. Zayn and I created a <a href="https://andrewzayn.github.io/">tutorial</a> which teaches how to calculate Fantasy Points from NBA player stats from the 2021-2022 season and conduct data analysis on those calculated fantasy point values. 
 
 **(NASA Goddard Internship) Binning Techniques for Solar Wind and Geomagnetic Data**
 
-<ul> 
-<li>Created <a href="https://drive.google.com/drive/u/0/folders/1kQjVQ5YEQRJgyfJcXdeBf3LZXl0UATRK">3 posters</a> representing my work throughout this two-year research project. </li>
-
-<li>Presented a poster during the AGU conference held on December 12th, 2018 in Washington, D.C. titled
-<a href="https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/396419">"SM31D-3525 Effects of Data Binning Techniques on Results of Analyzing Solar Wind and Geomagnetic Indices Data”</a></li>
-</ul>
+I spent two-years of my high school working on a research project seeking to categorize the intensity of solar wind data continuously gathered every since 1990. Throughout my research project, I created <a href="https://drive.google.com/drive/u/0/folders/1kQjVQ5YEQRJgyfJcXdeBf3LZXl0UATRK">3 posters</a> representing my work throughout this two-year research project. In addition, I presented a poster during the AGU conference held on December 12th, 2018 in Washington, D.C. titled
+<a href="https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/396419">"SM31D-3525 Effects of Data Binning Techniques on Results of Analyzing Solar Wind and Geomagnetic Indices Data”</a>
 
 ## Experiences 
 
-**Teaching Assistant (CMSC250)**
+**Teaching Assistant (Discrete Mathematics)**
 
 Expanding on my past teaching experience, being a TA for an actual university class taught me how to teach class in a fast but understandable manner to students. As a TA, I led a discussion section, graded student work, and held office hours. Not only did I give personalized help in a 1-1 manner to students in office hours, but I also had the chance to lead my own discussion section. I was grateful that I was able to lead my own discussion section because it gave me more freedom to teach in a matter that would help the students understand the material in a conceptual manner and help answer the question "Why?" to course material instead of just looking at the "How?". In addition, I also had the opportunity to grade work that reflected the things that I taught in a setting where my teaching mattered more. This grading gave me feedback to areas in the coursework where students had more confusion in. These areas of confusion allowed me to figure out what to emphasize during my discussion sections and office hours.
 
