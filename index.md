@@ -38,6 +38,14 @@ I spent two-years of my high school working on a research project seeking to cat
 
 ## Experiences 
 
+**REU Intern at UMD**
+
+I had the chance to continue the quantum simulation research I started in the Spring of 2024 during the summer of 2024 as part of UMD's REU CARR program. This program allowed me to collaborate with other REU students working on various research projects, and I had the opportunity to present my own work as well. Over the summer, I focused on extending my simulation of k-local Hamiltonians to include fermionic operators, building on the previous work with Pauli operators. I found this experience particularly rewarding because it gave me the chance to work on a project full-time, free from the usual pressures of coursework. It also gave me a clearer insight into what life as a graduate student is really like, and helped me reassure myself that a PhD is something I really wanted to do after I obtained my masters degree. 
+
+**ITS Intern at AARP**
+
+At AARP, I worked on implemented chat bots in industry to be deployed for automation. During my internship, I implemented a couple chat bots to be used for customer help, including a model finetuned to AARP data starting from a pre-existing checkpoint. This experience gave me a glimpse into how experience in research can lead to advancement in industry. 
+
 **Teaching Assistant (Discrete Mathematics)**
 
 Expanding on my past teaching experience, being a TA for an actual university class taught me how to teach class in a fast but understandable manner to students. As a TA, I led a discussion section, graded student work, and held office hours. Not only did I give personalized help in a 1-1 manner to students in office hours, but I also had the chance to lead my own discussion section. I was grateful that I was able to lead my own discussion section because it gave me more freedom to teach in a matter that would help the students understand the material in a conceptual manner and help answer the question "Why?" to course material instead of just looking at the "How?". In addition, I also had the opportunity to grade work that reflected the things that I taught in a setting where my teaching mattered more. This grading gave me feedback to areas in the coursework where students had more confusion in. These areas of confusion allowed me to figure out what to emphasize during my discussion sections and office hours.
