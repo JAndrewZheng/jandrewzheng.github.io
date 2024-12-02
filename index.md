@@ -72,7 +72,7 @@ At this internship, I worked with a large dataset containing solar wind and magn
 - Scholastic Maryland State Champion for years 2014 – 2017, 2020
 - Maryland Sweet 16 Champion in the 5th Grade, achieving full scholarship to University of Maryland, Baltimore County
 - Achieved National Master Title at age 12
-- Current Teams: Represented UMD Chess Team in Pan American Chess Championships 2021, 2022
+- Current Team: Represented UMD Chess Team in Pan American Chess Championships 2021, 2022
 
 My Chess.com Account: <a href="https://www.chess.com/member/bravehorse">bravehorse</a>
 
