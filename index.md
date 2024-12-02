@@ -72,6 +72,7 @@ At this internship, I worked with a large dataset containing solar wind and magn
 - Scholastic Maryland State Champion for years 2014 – 2017, 2020
 - Maryland Sweet 16 Champion in the 5th Grade, achieving full scholarship to University of Maryland, Baltimore County
 - Achieved National Master Title at age 12
+- Current Teams: Represented UMD Chess Team in Pan American Chess Championships 2021, 2022
 
 My Chess.com Account: <a href="https://www.chess.com/member/bravehorse">bravehorse</a>
 
@@ -80,5 +81,6 @@ My Chess.com Account: <a href="https://www.chess.com/member/bravehorse">bravehor
 - Howard County All-Star 2016-2020
 - 2x Maryland Student Hockey League Second Team All-State
 - Last Ice Hockey Team: Washington Little Caps AAA U18
+- Community Service: Skated with many disabled players, Instructor for Asian Ice Hockey Camp
 
 **Basketball:** I'm a bit too short to play basketball well competitively but it has always been a fun sport for me to play. Whenever I have free time, I usually spend it playing pickup basketball. Recently, basketball has become one of my favorite hobbies because it's a way to connect with friends and engage in an activity that is beneficial for everybody.
