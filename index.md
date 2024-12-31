@@ -25,7 +25,7 @@ This project is still ongoing, but close to wrapping up. Code is granted upon re
 
 Noise cancellation has always been an area without good solutions until recent advancements in deep learning models. Traditional noise cancellation takes advantage of the fourier basis, where frequencies that cannot represent human speech are removed. However, such techniques are not good for removing background noise produced by other people. Thus, deep learning models are more appropriate to solve such problems by training the model to learn what is background noise and what isn't background noise given a bunch of data. These methods allow us to avoid the usage of the fourier basis which is not applicable in general for noise cancellation. This <a href="https://github.com/Brandonio-c/ClearComm-NN">project</a> dives deep into what model we deemed most appropriate for this task along with dataset choices for the best, practical results. 
 
-Full writeup can be seen here: <a href="https://arxiv.org/abs/2405.20884">Paper</a>
+Full writeup can be seen here: <a href="https://arxiv.org/abs/2405.20884">paper</a>.
 
 **NLP Information Storage and Retrieval**
 
