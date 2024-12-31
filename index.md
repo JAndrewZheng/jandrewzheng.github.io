@@ -29,7 +29,7 @@ Full writeup can be seen here: <a href="https://arxiv.org/abs/2405.20884">paper<
 
 **NLP Information Storage and Retrieval**
 
-Information retrieval from a database is being used daily by search engines made by Google and Bing. The most obvious way to find the most relevant document in a database is to turn all documents into a vector, turn the query into a vector, and find which document would have the largest dot product with query. How do we do this vectorization? This <a href="https://github.com/rifaaQ/cmsc674">project</a> seeks to compare differen benchmarks of methods that use different methods to perform this query-document vectorization. 
+Information retrieval from a database is being used daily by search engines made by Google and Bing. The most obvious way to find the most relevant document in a database is to turn all documents into a vector, turn the query into a vector, and find which document would have the largest dot product with query. How do we do this vectorization? This <a href="https://github.com/rifaaQ/cmsc674">project</a> seeks to compare different benchmarks of methods that use different methods to perform this query-document vectorization. 
 
 **Fantasy Basketball Project**
 
