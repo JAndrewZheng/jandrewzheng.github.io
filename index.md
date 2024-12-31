@@ -17,11 +17,15 @@ I am a Masters at University of Maryland, College Park, majoring in Computer Sci
 
 For matrices, the <a href="ttps://en.wikipedia.org/wiki/Lie_product_formula">lie-product formula</a> isn't separable via product formulas for numbers. This has severe implications on the simulation of time-independent <a href="https://en.wikipedia.org/wiki/Hamiltonian_(quantum_mechanics)">hamiltonians</a>, where the solution to the <a href="ttps://en.wikipedia.org/wiki/Lie_product_formula">Schrödinger equation</a> produces exponentials, and more specifically, matrix exponentials. In addition, the full hamiltonian of system is often separable into many individual terms. Lie-product formula can give an arbitarily good estimation of the product formula exponentiation for small enough time intervals, however, these hamiltonian matrices can get exponentially large as the system size gets larger, thus, methods to achieve good estimates in relatively low computation time. One such method is presented in <a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.011020">A Theory of Trotter Error</a> which uses <a href="https://en.wikipedia.org/wiki/Commutator">commutator</a> scaling between individual terms of the hamiltonian to give a good upperbound on product formula estimation where the upperbound is computable using machines, despite these expressions still being computationally expensive. Taking advantage of system properties such as <a href="https://en.wikipedia.org/wiki/Translational_symmetry">translation invariance</a> and <a href="https://en.wikipedia.org/wiki/Principle_of_locality">locality</a>, clever algorithms can be implemented to compute these commutators efficiently. 
 
-This project is still ongoing, but close to wrapping up. Code is granted upon request. 
+A slideshow <a href="https://docs.google.com/presentation/d/1s5vxAKGWJaaU2VymRtw6hAzV6e22opk1q6dKsIt_8aM/edit#slide=id.g2f0a34d2036_1_87">presentation</a> was given in August 2024 
+
+This project is still ongoing, but close to wrapping up. Code is granted upon request.
 
 **ClearCOMM**
 
 Noise cancellation has always been an area without good solutions until recent advancements in deep learning models. Traditional noise cancellation takes advantage of the fourier basis, where frequencies that cannot represent human speech are removed. However, such techniques are not good for removing background noise produced by other people. Thus, deep learning models are more appropriate to solve such problems by training the model to learn what is background noise and what isn't background noise given a bunch of data. These methods allow us to avoid the usage of the fourier basis which is not applicable in general for noise cancellation. This <a href="https://github.com/Brandonio-c/ClearComm-NN">project</a> dives deep into what model we deemed most appropriate for this task along with dataset choices for the best, practical results. 
+
+Full writeup can be seen here: <a href="https://arxiv.org/abs/2405.20884">project</a>
 
 **NLP Information Storage and Retrieval**
 
