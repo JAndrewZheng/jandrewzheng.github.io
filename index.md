@@ -15,14 +15,14 @@ My research interests lie in the explainability of AI agents through theoretical
 
 **Efficient Bandit Search of Correct Reasoning Paths**
 
--Implemented an efficient Monte Carl Tree Search of LLM reasoning traces using shallow rollouts
--Code: <a href="https://github.com/ishantamrakar/ThinkLite-VL">[Link]</a>, preprint: <a href="https://jandrewzheng.github.io/assets/files/qrgvjdfqpwxmap.pdf">[Link]</a>
+- Implemented an efficient Monte Carlo Tree Search of LLM reasoning traces using shallow rollouts
+- Code: <a href="https://github.com/ishantamrakar/ThinkLite-VL">[Link]</a>, preprint: <a href="https://jandrewzheng.github.io/assets/files/qrgvjdfqpwxmap.pdf">[Link]</a>
 
 **Quantum Simulation Project (Ongoing)**
 
--Implemented python package for quantifying error of simulating translationally invariant Hamiltonians using product formula approximations. 
--Check out my slideshow <a href="https://docs.google.com/presentation/d/1s5vxAKGWJaaU2VymRtw6hAzV6e22opk1q6dKsIt_8aM/edit#slide=id.g2f0a34d2036_1_87">presentation</a> on this research project!
--Close to wrapping up. Code is granted upon request.
+- Implemented python package for quantifying error of simulating translationally invariant Hamiltonians using product formula approximations. 
+- Check out my slideshow <a href="https://docs.google.com/presentation/d/1s5vxAKGWJaaU2VymRtw6hAzV6e22opk1q6dKsIt_8aM/edit#slide=id.g2f0a34d2036_1_87">presentation</a> on this research project!
+- Close to wrapping up. Code is granted upon request.
 
 **ClearCOMM**
 
@@ -30,18 +30,11 @@ My research interests lie in the explainability of AI agents through theoretical
 - Presented model choices in <a href="https://github.com/Brandonio-c/ClearComm-NN">this preprint</a>
 - Code: <a href="https://github.com/Brandonio-c/ClearComm-NN">[Link]</a>
 
-Full writeup can be seen here: <a href="https://arxiv.org/abs/2405.20884">paper</a>.
-
 **NLP Information Storage and Retrieval**
 
-This <a href="https://github.com/rifaaQ/cmsc674">project</a> is a survey on query-document vectorization. 
+- This <a href="https://github.com/rifaaQ/cmsc674">project</a> is a survey on query-document vectorization. 
 
-**(NASA Goddard Internship) Binning Techniques for Solar Wind and Geomagnetic Data**
-
-I spent two-years of my high school working on a research project seeking to categorize the intensity of solar wind data continuously gathered every since 1990. Throughout my research project, I created <a href="https://drive.google.com/drive/u/0/folders/1kQjVQ5YEQRJgyfJcXdeBf3LZXl0UATRK">3 posters</a> representing my work throughout this two-year research project. In addition, I presented a poster during the AGU conference held on December 12th, 2018 in Washington, D.C. titled
-<a href="https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/396419">"SM31D-3525 Effects of Data Binning Techniques on Results of Analyzing Solar Wind and Geomagnetic Indices Data”</a>
-
-## Experiences 
+<!-- ## Experiences 
 
 **REU Intern at UMD**
 
@@ -59,7 +52,7 @@ I really enjoyed my TA experience and I wish to do more in the form to teaching 
 
 **Kumon Math and Reading Center of Clarksville**
 
-At this job, I taught a lot of students of differing ages, from toddlers to students in high school. Predominantly, I taught high-level math, which included topics from Algebra II, Precalculus, Calculus I and Calculus II. I really enjoyed this job because it allowed me to interact with the same students and watch each student grow. 
+At this job, I taught a lot of students of differing ages, from toddlers to students in high school. Predominantly, I taught high-level math, which included topics from Algebra II, Precalculus, Calculus I and Calculus II. I really enjoyed this job because it allowed me to interact with the same students and watch each student grow.  -->
 
 ## Other Experiences
 
