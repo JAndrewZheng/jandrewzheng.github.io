@@ -13,28 +13,51 @@ University of Maryland, College Park \\ \\
 **B.S. in computer science** Spring 2021 - May 2024 \\
 University of Maryland, College Park 
 
-## Projects 
+## Projects
 
-**Efficient Bandit Search of Correct Reasoning Paths**
+<div class="publications">
+<ol class="bibliography">
 
-- Implemented an efficient Monte Carlo Tree Search of LLM reasoning traces using shallow rollouts
-- Code: <a href="https://github.com/ishantamrakar/ThinkLite-VL">[Link]</a>, preprint: <a href="https://jandrewzheng.github.io/assets/files/qrgvjdfqpwxmap.pdf">[Link]</a>
+<li>
+<div class="abbr"><abbr>Preprint</abbr></div>
+<div class="title"><a href="https://jandrewzheng.github.io/assets/files/qrgvjdfqpwxmap.pdf">Efficient Bandit Search of Correct Reasoning Paths</a></div>
+Implemented an efficient Monte Carlo Tree Search of LLM reasoning traces using shallow rollouts.
+<div class="links">
+<a class="btn" href="https://jandrewzheng.github.io/assets/files/qrgvjdfqpwxmap.pdf">PDF</a>
+<a class="btn" href="https://github.com/ishantamrakar/ThinkLite-VL">Code</a>
+</div>
+</li>
 
-**Quantum Simulation Project (Ongoing)**
+<li>
+<div class="abbr"><abbr>Ongoing</abbr></div>
+<div class="title">Quantum Simulation Project</div>
+Implemented python package for quantifying error of simulating translationally invariant Hamiltonians using product formula approximations. Close to wrapping up. Code is granted upon request.
+<div class="links">
+<a class="btn" href="https://docs.google.com/presentation/d/1s5vxAKGWJaaU2VymRtw6hAzV6e22opk1q6dKsIt_8aM/edit#slide=id.g2f0a34d2036_1_87">Slides</a>
+</div>
+</li>
 
-- Implemented python package for quantifying error of simulating translationally invariant Hamiltonians using product formula approximations. 
-- Check out my slideshow <a href="https://docs.google.com/presentation/d/1s5vxAKGWJaaU2VymRtw6hAzV6e22opk1q6dKsIt_8aM/edit#slide=id.g2f0a34d2036_1_87">presentation</a> on this research project!
-- Close to wrapping up. Code is granted upon request.
+<li>
+<div class="abbr"><abbr>Preprint</abbr></div>
+<div class="title"><a href="https://github.com/Brandonio-c/ClearComm-NN">ClearCOMM</a></div>
+Implemented a Deep Neural Network capable of real-time noise cancellation on edge devices.
+<div class="links">
+<a class="btn" href="https://github.com/Brandonio-c/ClearComm-NN">Preprint</a>
+<a class="btn" href="https://github.com/Brandonio-c/ClearComm-NN">Code</a>
+</div>
+</li>
 
-**ClearCOMM**
+<li>
+<div class="abbr"><abbr>Survey</abbr></div>
+<div class="title"><a href="https://github.com/rifaaQ/cmsc674">NLP Information Storage and Retrieval</a></div>
+A survey on query-document vectorization.
+<div class="links">
+<a class="btn" href="https://github.com/rifaaQ/cmsc674">Code</a>
+</div>
+</li>
 
-- Implemented A Deep Neural Network capable of real-time noise cancellation on edge devices. 
-- Presented model choices in <a href="https://github.com/Brandonio-c/ClearComm-NN">this preprint</a>
-- Code: <a href="https://github.com/Brandonio-c/ClearComm-NN">[Link]</a>
-
-**NLP Information Storage and Retrieval**
-
-- This <a href="https://github.com/rifaaQ/cmsc674">project</a> is a survey on query-document vectorization. 
+</ol>
+</div>
 
 <!-- ## Experiences 
 
