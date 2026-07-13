@@ -29,6 +29,7 @@ In Progress: An AI assistant tool to help point out Hockey player weaknesses fro
 
 <li>
 <div class="abbr"><abbr>Preprint</abbr></div>
+<img class="teaser" src="./assets/Pipeline.pdf" />
 <div class="title"><a href="https://jandrewzheng.github.io/assets/files/qrgvjdfqpwxmap.pdf">Efficient Bandit Search of Correct Reasoning Paths</a></div>
 Implemented an efficient Monte Carlo Tree Search of LLM reasoning traces using shallow rollouts.
 <div class="links">
