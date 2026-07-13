@@ -4,12 +4,14 @@ layout: homepage
 
 ## About Me
 
-My research interests lie in the explainability of AI agents through theoretical approaches, particularly within reinforcement learning algorithms. Aside from school, I really enjoying teaching and playing chess, basketball and ice hockey.
+Currently, I am interested in the theory and design of AI Agents and Deep Learning Models. Although current AI agents are very powerful and deployable in a large variety of applications, I strongly believe AI agents have not reached their full potential. More specifically, I believe that current limitations of AI models are rooted in model design rather than compute power. My most recent projects spanned a range of AI and Machine Learning applications, being Keypoint Reconstruction for Sports Analytics, Guardrails for safe LLM Agents, and Bandit Search for AI Agents. On top of interests in AI, I am also interested in the development of theory of Quantum Algorithms. In the near future, we will have Quantum Computers, and understanding the theoretical capabilities and applications will be crucial to use these technologies effectively. In quantum computing, I specialize in quantum simulation. Aside from school, I really enjoying teaching and playing chess, basketball and ice hockey.
 
-## Research Interests
+## Education
 
-- **LLMs:** Reinforcement Learning, Reasoning, Database vectorization, Signal Denoising, Computer Vision, Theory
-- **Quantum Computing:** Simulation, Algorithms
+**M.S. in computer science** Aug 2024 - May 2026
+University of Maryland, College Park
+**B.S. in computer science** Spring 2021 - May 2024
+University of Maryland, College Park
 
 ## Projects 
 
