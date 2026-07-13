@@ -9,7 +9,7 @@ Currently, I am interested in the theory and design of AI Agents and Deep Learni
 ## Education
 
 **M.S. in computer science** Aug 2024 - May 2026 \\
-University of Maryland, College Park \\
+University of Maryland, College Park \\ \\
 **B.S. in computer science** Spring 2021 - May 2024 \\
 University of Maryland, College Park 
 
