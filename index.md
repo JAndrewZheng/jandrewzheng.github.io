@@ -18,6 +18,15 @@ University of Maryland, College Park
 <div class="publications">
 <ol class="bibliography">
 
+li>
+<div class="abbr"><abbr>Preprint</abbr></div>
+<img class="teaser" src="./assets/datsyuk-stickhandling.png" />
+<div class="title">Keypoint Reconstruction for Sports Analytics</div>
+In Progress: An AI assistant tool to help point out Hockey player weaknesses from game film.
+<div class="links">
+</div>
+</li>
+
 <li>
 <div class="abbr"><abbr>Preprint</abbr></div>
 <div class="title"><a href="https://jandrewzheng.github.io/assets/files/qrgvjdfqpwxmap.pdf">Efficient Bandit Search of Correct Reasoning Paths</a></div>
@@ -25,15 +34,6 @@ Implemented an efficient Monte Carlo Tree Search of LLM reasoning traces using s
 <div class="links">
 <a class="btn" href="https://jandrewzheng.github.io/assets/files/qrgvjdfqpwxmap.pdf">PDF</a>
 <a class="btn" href="https://github.com/ishantamrakar/ThinkLite-VL">Code</a>
-</div>
-</li>
-
-<li>
-<div class="abbr"><abbr>Ongoing</abbr></div>
-<div class="title">Quantum Simulation Project</div>
-Implemented python package for quantifying error of simulating translationally invariant Hamiltonians using product formula approximations. Close to wrapping up. Code is granted upon request.
-<div class="links">
-<a class="btn" href="https://docs.google.com/presentation/d/1s5vxAKGWJaaU2VymRtw6hAzV6e22opk1q6dKsIt_8aM/edit#slide=id.g2f0a34d2036_1_87">Slides</a>
 </div>
 </li>
 
