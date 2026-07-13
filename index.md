@@ -44,7 +44,7 @@ Implemented an efficient Monte Carlo Tree Search of LLM reasoning traces using s
 <div class="title"><a href="https://github.com/Brandonio-c/ClearComm-NN">ClearCOMM</a></div>
 Implemented a Deep Neural Network capable of real-time noise cancellation on edge devices.
 <div class="links">
-<a class="btn" href="https://github.com/Brandonio-c/ClearComm-NN">Preprint</a>
+<a class="btn" href="https://arxiv.org/pdf/2405.20884">Preprint</a>
 <a class="btn" href="https://github.com/Brandonio-c/ClearComm-NN">Code</a>
 </div>
 </li>
