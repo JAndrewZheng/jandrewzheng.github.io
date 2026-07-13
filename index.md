@@ -20,7 +20,7 @@ University of Maryland, College Park
 
 <li>
 <div class="abbr"><abbr>In Progress</abbr></div>
-<img class="teaser" src="./assets/img/datsyuk-stickhandling.png" />
+<img class="teaser" src="./assets/img/datsyuk-stickhandling-spinepose.gif" />
 <div class="title">Keypoint Reconstruction for Sports Analytics</div>
 In Progress: An AI assistant tool to help point out Hockey player weaknesses from game film.
 <div class="links">
