@@ -26,7 +26,7 @@ University of Maryland, College Park
       <td><img src="./assets/img/datsyuk-stickhandling-world.gif" alt="b"></td>
     </tr>
   </table>
-<img class="teaser" src="./assets/img/datsyuk-stickhandling-spinepose.gif" />
+<!-- <img class="teaser" src="./assets/img/datsyuk-stickhandling-spinepose.gif" /> -->
 <div class="title">Keypoint Reconstruction for Sports Analytics</div>
 In Progress: An AI assistant tool to help point out Hockey player weaknesses from game film.
 <div class="links">
