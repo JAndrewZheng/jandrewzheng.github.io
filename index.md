@@ -9,7 +9,7 @@ Currently, I am interested in the theory and design of AI Agents and Deep Learni
 ## Education
 
 **M.S. in computer science** Aug 2024 - May 2026 \\
-University of Maryland, College Park 
+University of Maryland, College Park \
 **B.S. in computer science** Spring 2021 - May 2024 \\
 University of Maryland, College Park 
 
@@ -18,9 +18,9 @@ University of Maryland, College Park
 <div class="publications">
 <ol class="bibliography">
 
-li>
-<div class="abbr"><abbr>Preprint</abbr></div>
-<img class="teaser" src="./assets/datsyuk-stickhandling.png" />
+<li>
+<div class="abbr"><abbr>In Progress</abbr></div>
+<img class="teaser" src="./assets/img/datsyuk-stickhandling.png" />
 <div class="title">Keypoint Reconstruction for Sports Analytics</div>
 In Progress: An AI assistant tool to help point out Hockey player weaknesses from game film.
 <div class="links">
@@ -29,7 +29,7 @@ In Progress: An AI assistant tool to help point out Hockey player weaknesses fro
 
 <li>
 <div class="abbr"><abbr>Preprint</abbr></div>
-<img class="teaser" src="./assets/Pipeline.pdf" />
+<img class="teaser" src="./assets/img/Pipeline.png" />
 <div class="title"><a href="https://jandrewzheng.github.io/assets/files/qrgvjdfqpwxmap.pdf">Efficient Bandit Search of Correct Reasoning Paths</a></div>
 Implemented an efficient Monte Carlo Tree Search of LLM reasoning traces using shallow rollouts.
 <div class="links">
