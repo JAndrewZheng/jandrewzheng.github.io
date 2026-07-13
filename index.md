@@ -44,7 +44,7 @@ Implemented an efficient Monte Carlo Tree Search of LLM reasoning traces using s
 <div class="title"><a href="https://github.com/Brandonio-c/ClearComm-NN">ClearCOMM</a></div>
 Implemented a Deep Neural Network capable of real-time noise cancellation on edge devices.
 <div class="links">
-<a class="btn" href="https://arxiv.org/pdf/2405.20884">Preprint</a>
+<a class="btn" href="https://arxiv.org/pdf/2405.20884">PDF</a>
 <a class="btn" href="https://github.com/Brandonio-c/ClearComm-NN">Code</a>
 </div>
 </li>
@@ -74,7 +74,7 @@ At this job, I taught a lot of students of differing ages, from toddlers to stud
 
 ## Other Experiences
 
-**Chess:** Achievements:
+**Chess:**
 
 - Scholastic Maryland State Champion for years 2014 – 2017, 2020
 - Maryland Sweet 16 Champion in the 5th Grade, achieving full scholarship to University of Maryland, Baltimore County
@@ -84,7 +84,7 @@ At this job, I taught a lot of students of differing ages, from toddlers to stud
 
 My Chess.com Account: <a href="https://www.chess.com/member/bravehorse">bravehorse</a>
 
-**Ice Hockey:** Achievements:
+**Ice Hockey:**
 
 - Howard County All-Star 2016-2020
 - 2x Maryland Student Hockey League Second Team All-State
