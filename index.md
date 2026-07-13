@@ -29,7 +29,7 @@ In Progress: An AI assistant tool to help point out Hockey player weaknesses fro
 
 <li>
 <div class="abbr"><abbr>Preprint</abbr></div>
-<img class="teaser" src="./assets/img/Pipeline.pdf" />
+<img class="teaser" src="./assets/img/pipeline.png" />
 <div class="title"><a href="https://jandrewzheng.github.io/assets/files/qrgvjdfqpwxmap.pdf">Efficient Bandit Search of Correct Reasoning Paths</a></div>
 Implemented an efficient Monte Carlo Tree Search of LLM reasoning traces using shallow rollouts.
 <div class="links">
@@ -40,20 +40,12 @@ Implemented an efficient Monte Carlo Tree Search of LLM reasoning traces using s
 
 <li>
 <div class="abbr"><abbr>Preprint</abbr></div>
+<img class="teaser" src="./assets/img/clearcomm.png" />
 <div class="title"><a href="https://github.com/Brandonio-c/ClearComm-NN">ClearCOMM</a></div>
 Implemented a Deep Neural Network capable of real-time noise cancellation on edge devices.
 <div class="links">
 <a class="btn" href="https://github.com/Brandonio-c/ClearComm-NN">Preprint</a>
 <a class="btn" href="https://github.com/Brandonio-c/ClearComm-NN">Code</a>
-</div>
-</li>
-
-<li>
-<div class="abbr"><abbr>Survey</abbr></div>
-<div class="title"><a href="https://github.com/rifaaQ/cmsc674">NLP Information Storage and Retrieval</a></div>
-A survey on query-document vectorization.
-<div class="links">
-<a class="btn" href="https://github.com/rifaaQ/cmsc674">Code</a>
 </div>
 </li>
 
