@@ -9,7 +9,8 @@ Currently, I am interested in the theory and design of AI Agents and Deep Learni
 ## Education
 
 **M.S. in computer science** Aug 2024 - May 2026 \\
-University of Maryland, College Park \
+University of Maryland, College Park
+
 **B.S. in computer science** Spring 2021 - May 2024 \\
 University of Maryland, College Park 
 
@@ -21,15 +22,26 @@ University of Maryland, College Park
 <li>
 <div class="abbr"><abbr>In Progress</abbr></div>
 <table>                                                                                                                                                                                                                                                                
-    <tr>                                                                                                                                                                                                                                                                 
-      <td><img src="./assets/img/datsyuk-stickhandling-spinepose.gif" alt="a"><td>
+    <tr>
+      <td><img src="./assets/img/datsyuk-stickhandling-spinepose.gif" alt="a"></td>
       <td><img src="./assets/img/datsyuk-stickhandling-world.gif" alt="b"></td>
     </tr>
 </table>
 <!-- <img class="teaser" src="./assets/img/datsyuk-stickhandling-spinepose.gif" /> -->
 <div class="title">Keypoint Reconstruction for Sports Analytics</div>
-In Progress: An AI assistant tool to help point out Hockey player weaknesses from game film.
+(In Progress): An AI assistant tool to help point out Hockey player weaknesses from game film.
 <div class="links">
+</div>
+</li>
+
+<li>
+<div class="abbr"><abbr>Preprint</abbr></div>
+<img class="teaser" src="./assets/img/eta_crossover_plots.png" />
+<div class="title">Computing error bounds for product-formula simulations of translation-invariant Hamiltonians</div>
+A python package for efficiently computing error bounds of product-formula simulations on quantum computers. Will share upon request.
+<div class="links">
+<a class="btn">PDF (Coming Soon!)</a>
+<a class="btn" href="https://github.com/JamesDWatson/Product-Formula-Bounds">Code (Coming Soon!)</a>
 </div>
 </li>
 
@@ -37,7 +49,7 @@ In Progress: An AI assistant tool to help point out Hockey player weaknesses fro
 <div class="abbr"><abbr>Preprint</abbr></div>
 <img class="teaser" src="./assets/img/pipeline.png" />
 <div class="title"><a href="https://jandrewzheng.github.io/assets/files/qrgvjdfqpwxmap.pdf">Efficient Bandit Search of Correct Reasoning Paths</a></div>
-Implemented an efficient Monte Carlo Tree Search of LLM reasoning traces using shallow rollouts.
+Describes a methodology to continuously self-improve LLM performance by picking the best reasoning traces
 <div class="links">
 <a class="btn" href="https://jandrewzheng.github.io/assets/files/qrgvjdfqpwxmap.pdf">PDF</a>
 <a class="btn" href="https://github.com/ishantamrakar/ThinkLite-VL">Code</a>
@@ -48,7 +60,7 @@ Implemented an efficient Monte Carlo Tree Search of LLM reasoning traces using s
 <div class="abbr"><abbr>Preprint</abbr></div>
 <img class="teaser" src="./assets/img/clearcomm.png" />
 <div class="title"><a href="https://github.com/Brandonio-c/ClearComm-NN">ClearCOMM</a></div>
-Implemented a Deep Neural Network capable of real-time noise cancellation on edge devices.
+A Deep Neural Network capable of real-time noise cancellation on edge devices, useful for noisy environments.
 <div class="links">
 <a class="btn" href="https://arxiv.org/pdf/2405.20884">PDF</a>
 <a class="btn" href="https://github.com/Brandonio-c/ClearComm-NN">Code</a>
@@ -58,45 +70,33 @@ Implemented a Deep Neural Network capable of real-time noise cancellation on edg
 </ol>
 </div>
 
-<!-- ## Experiences 
+## Work Experiences
+
+I am fortunate to have many opportunities to contribute to meaningful work. Here are my most recent work experiences.
 
 **REU Intern at UMD**
 
-I had the chance through an REU program to work full-time on quantum simulation research I started in the Spring of 2024 during the summer of 2024 as part of UMD's REU CARR program. This program allowed me to collaborate with other REU students working on various research projects, and I had the opportunity to present my own work. Over the summer, I focused on extending my simulation of k-local Hamiltonians to include fermionic operators, building on the previous work with Pauli operators. I found this experience particularly rewarding because it gave me the chance to work on a project full-time, free from the usual pressures of coursework. It also gave me a clearer insight into what life as a graduate student is really like, and helped me reassure myself that a PhD is something I really wanted to do after I obtained my masters degree. 
+I had the chance through an REU program to work full-time on quantum simulation research I started in the Spring of 2024 during the summer of 2024 as part of UMD's REU CAAR program. I enjoyed collaborating with other REU students working on research. Over the summer, I focused on extending my simulation of k-local Hamiltonians to include fermionic operators, building on the previous work with Pauli operators. I found this experience particularly rewarding because it gave me the chance to work on a project full-time, free from the usual pressures of coursework. It gave me a clear insight into life as a graduate student. 
 
 **ITS Intern at AARP**
 
-Implemented multiple chat bots, including a local, finetuned model to company data.
+As an intern, I deployed AI agents for help-desk queries. To accomplish this, I built web-scrapers to scrape important information from company websites. Then, I fine-tuned a publicly available pretrained question-answer model from the internet. This model was hosted completely locally. I appreciated that I was trusted with the opportunity to do something impactful for the company despite only being an intern.
 
 **Teaching Assistant (Discrete Mathematics)**
 
-Expanding on my past teaching experience, being a TA for an actual university class taught me how to teach class in a fast but understandable manner to students. As a TA, I led a discussion section, graded student work, and held office hours. I was grateful that I was able to lead my own discussion section because it gave me more freedom to teach in a matter that would help the students understand the material in a conceptual manner and help answer the question "Why?" to course material instead of just looking at the "How?". In addition, I also had the opportunity to grade work that reflected the things that I taught in a setting where my teaching mattered more. This grading gave me feedback to areas in the coursework where students had more confusion in. These areas of confusion allowed me to figure out what to emphasize during my discussion sections and office hours.
-
-I really enjoyed my TA experience and I wish to do more in the form to teaching later on. Teaching college courses suits me as well since in college, courses get to a point where they are actually interesting and the importance of actually understanding the "Why?" becomes more important instead of just learning the "How?". I would definitely be interested in teaching more college-level courses in the area of computer science or mathematics. 
+As a TA, I led my own discussion section, graded student work, and held office hours. What I valued most was the freedom to teach in my own way. I enjoyed sharing how I personally understood the material and being able to interact with students directly. Having my own section meant I could tailor explanations to what students were struggling with, which I could gauge from grading and office hours. I found it rewarding to bring my own ideas and intuitions into the classroom and see students engage with the material on a deeper level. I really enjoyed my TA experience and I wish to do more in the form to teaching later on.
 
 **Kumon Math and Reading Center of Clarksville**
 
-At this job, I taught a lot of students of differing ages, from toddlers to students in high school. Predominantly, I taught high-level math, which included topics from Algebra II, Precalculus, Calculus I and Calculus II. I really enjoyed this job because it allowed me to interact with the same students and watch each student grow.  -->
+At this job, I taught a lot of students of differing ages, from toddlers to students in high school. I predominantly taught high-level math, which included topics from Algebra II, Precalculus, Calculus I and Calculus II. I really enjoyed this job because it allowed me to work with a group of students over a long period of time and watch each of them grow.
 
-## Other Experiences
+## Teaching
 
-**Chess:**
+- Teaching Assistant, <a href="https://www.cs.umd.edu/class/fall2024/cmsc250-010X/">Discrete Structures</a> for <a href="https://pauliankline.com/cv/">Professor Paul Kline</a>, Spring 2023
+- Math Tutor at <a href="https://www.kumon.com/CLARKSVILLE">Kumon, Clarksville</a>
 
-- Scholastic Maryland State Champion for years 2014 – 2017, 2020
-- Maryland Sweet 16 Champion in the 5th Grade, achieving full scholarship to University of Maryland, Baltimore County
-- Achieved National Master Title at age 12
-- Current Team: Represented UMD Chess Team in Pan American Chess Championships 2021, 2022
-- Community Service: Hosted public lessons at local community college, Private Tutor
+## Hobbies
 
-My Chess.com Account: <a href="https://www.chess.com/member/bravehorse">bravehorse</a>
+Chess is one of my lifetime hobbies. I picked up chess when I was 5 years old, and I fell in love with it ever since. I took chess seriously as a kid, achieving National Master Title (NM) at 12 years old. As a high schooler, I taught public chess lessons at local community college. More recently, I represented my University Chess Team in Pan American Chess Championships in 2021 and 2022. Nowadays, I play the game online recreationally. You can find me on chess.com here: <a href="https://www.chess.com/member/bravehorse">bravehorse</a>
 
-**Ice Hockey:**
-
-- Howard County All-Star 2016-2020
-- 2x Maryland Student Hockey League Second Team All-State
-- Last Ice Hockey Team: Washington Little Caps AAA U18
-- Community Service: Skated with many disabled players, Instructor for Asian Ice Hockey Camp
-
-**Basketball:** 
-
-- Rec Center Role Player
+Ice Hockey is another lifetime hobby. I played on competitive ice hockey teams until I attended college. My last year of competitive ice hockey, I played on the Washington Little Caps AAA U18 (2020) team. I served my community by volunteering for the <a href="https://montgomerycollege.galaxydigital.com/agency/detail/?agency_id=170280">Capital Dragons</a> Ice Hockey teams and skating with disabled hockey players on my high school team. Currently, I don't play on any hockey teams, but I hope to join a beer league hockey team in the near future. I enjoy pond skating during cold winters for the fresh scenery and free ice. Nowadays, I enjoy playing pickup basketball, where I am a rec center role player. 
