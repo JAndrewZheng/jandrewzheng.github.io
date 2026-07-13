@@ -76,7 +76,7 @@ I am fortunate to have many opportunities to contribute to meaningful work. Here
 
 **REU Intern at UMD**
 
-I had the chance through an REU program to work full-time on quantum simulation research I started in the Spring of 2024 during the summer of 2024 as part of UMD's REU CAAR program. I enjoyed collaborating with other REU students working on research. Over the summer, I focused on extending my simulation of k-local Hamiltonians to include fermionic operators, building on the previous work with Pauli operators. I found this experience particularly rewarding because it gave me the chance to work on a project full-time, free from the usual pressures of coursework. It gave me a clear insight into life as a graduate student. 
+I had the chance through an REU program to work full-time on quantum simulation research I started in the Spring of 2024 during the summer of 2024 as part of UMD's REU CAAR program. I enjoyed collaborating with other REU students working on research. Over the summer, I focused on extending my simulation of k-local Hamiltonians to include fermionic operators, building on the previous work with Pauli operators. This experience gave me the chance to work on a project full-time, free from the usual pressures of coursework. It gave me a clear insight into life as a graduate student. 
 
 **ITS Intern at AARP**
 
