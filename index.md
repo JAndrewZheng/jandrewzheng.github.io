@@ -36,6 +36,17 @@ University of Maryland, College Park
 
 <li>
 <div class="abbr"><abbr>Preprint</abbr></div>
+<img class="teaser" src="./assets/img/dynaguard.png" />
+<div class="title">Guardian Models for LLM safety</div>
+Describes the design and implementation of a safety model that can use custom user-specified rulesets.
+<div class="links">
+<a class="btn">PDF (Coming Soon!)</a>
+<a class="btn">Code (Coming Soon!)</a>
+</div>
+</li>
+
+<li>
+<div class="abbr"><abbr>Preprint</abbr></div>
 <img class="teaser" src="./assets/img/eta_crossover_plots.png" />
 <div class="title">Computing error bounds for product-formula simulations of translation-invariant Hamiltonians</div>
 A python package for efficiently computing error bounds of product-formula simulations on quantum computers. Will share upon request.
