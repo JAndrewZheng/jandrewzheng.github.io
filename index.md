@@ -90,10 +90,10 @@ As a TA, I led my own discussion section, graded student work, and held office h
 
 At this job, I taught a lot of students of differing ages, from toddlers to students in high school. I predominantly taught high-level math, which included topics from Algebra II, Precalculus, Calculus I and Calculus II. I really enjoyed this job because it allowed me to work with a group of students over a long period of time and watch each of them grow.
 
-## Teaching
+<!-- ## Teaching
 
 - Teaching Assistant, <a href="https://www.cs.umd.edu/class/fall2024/cmsc250-010X/">Discrete Structures</a> for <a href="https://pauliankline.com/cv/">Professor Paul Kline</a>, Spring 2023
-- Math Tutor at <a href="https://www.kumon.com/CLARKSVILLE">Kumon, Clarksville</a>
+- Math Tutor at <a href="https://www.kumon.com/CLARKSVILLE">Kumon, Clarksville</a> -->
 
 ## Hobbies
 
